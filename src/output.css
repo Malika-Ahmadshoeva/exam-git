@@ -553,3 +553,100 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.mb-\[20px\] {
+  margin-bottom: 20px;
+}
+
+.mb-\[70px\] {
+  margin-bottom: 70px;
+}
+
+.mb-\[0px\] {
+  margin-bottom: 0px;
+}
+
+.mb-\[40px\] {
+  margin-bottom: 40px;
+}
+
+.flex {
+  display: flex;
+}
+
+.h-\[100vh\] {
+  height: 100vh;
+}
+
+.h-\[10vh\] {
+  height: 10vh;
+}
+
+.h-\[160vh\] {
+  height: 160vh;
+}
+
+.h-\[130vh\] {
+  height: 130vh;
+}
+
+.w-\[80\%\] {
+  width: 80%;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.gap-\[30px\] {
+  gap: 30px;
+}
+
+.bg-\[\#FEFBF1\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 251 241 / var(--tw-bg-opacity, 1));
+}
+
+.px-\[40px\] {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.py-\[100px\] {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.px-\[80px\] {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.text-\[11px\] {
+  font-size: 11px;
+}
+
+.text-\[14px\] {
+  font-size: 14px;
+}
+
+.text-\[32px\] {
+  font-size: 32px;
+}
+
+.text-\[80px\] {
+  font-size: 80px;
+}
+
+.text-\[\#703412\] {
+  --tw-text-opacity: 1;
+  color: rgb(112 52 18 / var(--tw-text-opacity, 1));
+}
+
+*{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
